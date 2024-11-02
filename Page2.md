@@ -9,4 +9,4 @@ In this section, we’ll discuss the More info
 ### St. Louis
 Have Arch
 
-[Previous: Introduction to Eric](Page1.md)]
+[Previous: Introduction to Eric](Page1.md)
